@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:todoapp/@core/data/repo/model/checkbox.model.dart';
 import 'package:todoapp/@share/widget/stateful/list_checkbox.dart';
-import 'package:todoapp/@share/widget/stateful/list_checkbox.dart';
-import 'package:todoapp/resources/styles/colors.dart';
 
 class TabBarContent extends StatelessWidget {
   final TabController? tabController;
